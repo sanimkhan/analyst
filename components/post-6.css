@@ -307,7 +307,7 @@ body:not(.rtl) .elementor-6 .elementor-element.elementor-element-19c6fa9 .elemen
     --display: flex;
     --gap: 20px 0px;
     --background-transition: 0.3s;
-    --padding-top: 150px;
+    --padding-top: 10px;
     --padding-bottom: 140px;
     --padding-left: 0px;
     --padding-right: 0px
@@ -335,13 +335,13 @@ body:not(.rtl) .elementor-6 .elementor-element.elementor-element-19c6fa9 .elemen
 }
 
 .elementor-6 .elementor-element.elementor-element-c57978c>.elementor-widget-container {
-    padding: 2% 40% 0% 0%
+    padding: 2% 0% 0% 0%
 }
 
 .elementor-6 .elementor-element.elementor-element-c57978c {
     width: var(--container-widget-width, 85%);
     max-width: 85%;
-    --container-widget-width: 85%;
+    --container-widget-width: 100%;
     --container-widget-flex-grow: 0;
     align-self: center
 }
@@ -1180,7 +1180,7 @@ body:not(.rtl) .elementor-6 .elementor-element.elementor-element-19c6fa9 .elemen
     }
 
     .elementor-6 .elementor-element.elementor-element-948e45e {
-        --padding-top: 100px;
+        --padding-top: 10px;
         --padding-bottom: 100px;
         --padding-left: 0px;
         --padding-right: 0px
@@ -1420,7 +1420,7 @@ body:not(.rtl) .elementor-6 .elementor-element.elementor-element-19c6fa9 .elemen
     }
 
     .elementor-6 .elementor-element.elementor-element-948e45e {
-        --padding-top: 75px;
+        --padding-top: 7px;
         --padding-bottom: 0px;
         --padding-left: 0px;
         --padding-right: 0px
