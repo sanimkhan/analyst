@@ -200,8 +200,8 @@ body:not(.rtl) .elementor-6 .elementor-element.elementor-element-19c6fa9 .elemen
     --display: flex;
     --gap: 0px 0px;
     --background-transition: 0.3s;
-    --padding-top: 100px;
-    --padding-bottom: 100px;
+    --padding-top: 10px;
+    --padding-bottom: 50px;
     --padding-left: 0px;
     --padding-right: 0px
 }
@@ -307,8 +307,8 @@ body:not(.rtl) .elementor-6 .elementor-element.elementor-element-19c6fa9 .elemen
     --display: flex;
     --gap: 20px 0px;
     --background-transition: 0.3s;
-    --padding-top: 10px;
-    --padding-bottom: 140px;
+    --padding-top: 0px;
+    --padding-bottom: 10px;
     --padding-left: 0px;
     --padding-right: 0px
 }
@@ -622,7 +622,7 @@ body:not(.rtl) .elementor-6 .elementor-element.elementor-element-19c6fa9 .elemen
     --display: flex;
     --gap: 20px 0px;
     --background-transition: 0.3s;
-    --padding-top: 150px;
+    --padding-top: 80px;
     --padding-bottom: 0px;
     --padding-left: 0px;
     --padding-right: 100px
@@ -700,8 +700,8 @@ body:not(.rtl) .elementor-6 .elementor-element.elementor-element-19c6fa9 .elemen
     --display: flex;
     --gap: 20px 0px;
     --background-transition: 0.3s;
-    --padding-top: 150px;
-    --padding-bottom: 100px;
+    --padding-top: 80px;
+    --padding-bottom: 10px;
     --padding-left: 0px;
     --padding-right: 0px
 }
@@ -1024,7 +1024,7 @@ body:not(.rtl) .elementor-6 .elementor-element.elementor-element-19c6fa9 .elemen
     --align-items: stretch;
     --gap: 0px 0px;
     --background-transition: 0.3s;
-    --padding-top: 100px;
+    --padding-top: 10px;
     --padding-bottom: 150px;
     --padding-left: 0px;
     --padding-right: 0px
@@ -1180,8 +1180,8 @@ body:not(.rtl) .elementor-6 .elementor-element.elementor-element-19c6fa9 .elemen
     }
 
     .elementor-6 .elementor-element.elementor-element-948e45e {
-        --padding-top: 10px;
-        --padding-bottom: 100px;
+        --padding-top: 0px;
+        --padding-bottom: 10px;
         --padding-left: 0px;
         --padding-right: 0px
     }
@@ -1194,7 +1194,7 @@ body:not(.rtl) .elementor-6 .elementor-element.elementor-element-19c6fa9 .elemen
     .elementor-6 .elementor-element.elementor-element-c57978c {
         width: var(--container-widget-width, 60%);
         max-width: 60%;
-        --container-widget-width: 60%;
+        --container-widget-width: 100%;
         --container-widget-flex-grow: 0
     }
 
@@ -1227,7 +1227,7 @@ body:not(.rtl) .elementor-6 .elementor-element.elementor-element-19c6fa9 .elemen
     }
 
     .elementor-6 .elementor-element.elementor-element-2eb253f {
-        --padding-top: 100px;
+        --padding-top: 50px;
         --padding-bottom: 0px;
         --padding-left: 0px;
         --padding-right: 50px
@@ -1238,8 +1238,8 @@ body:not(.rtl) .elementor-6 .elementor-element.elementor-element-19c6fa9 .elemen
     }
 
     .elementor-6 .elementor-element.elementor-element-4c05daa {
-        --padding-top: 100px;
-        --padding-bottom: 75px;
+        --padding-top: 50px;
+        --padding-bottom: 5px;
         --padding-left: 0px;
         --padding-right: 0px
     }
@@ -1392,7 +1392,7 @@ body:not(.rtl) .elementor-6 .elementor-element.elementor-element-19c6fa9 .elemen
     }
 
     .elementor-6 .elementor-element.elementor-element-d71ef20 {
-        --padding-top: 65px;
+        --padding-top: 6px;
         --padding-bottom: 0px;
         --padding-left: 0px;
         --padding-right: 0px
@@ -1420,7 +1420,7 @@ body:not(.rtl) .elementor-6 .elementor-element.elementor-element-19c6fa9 .elemen
     }
 
     .elementor-6 .elementor-element.elementor-element-948e45e {
-        --padding-top: 7px;
+        --padding-top: 0px;
         --padding-bottom: 0px;
         --padding-left: 0px;
         --padding-right: 0px
@@ -1511,7 +1511,7 @@ body:not(.rtl) .elementor-6 .elementor-element.elementor-element-19c6fa9 .elemen
     }
 
     .elementor-6 .elementor-element.elementor-element-2eb253f {
-        --padding-top: 75px;
+        --padding-top: 7px;
         --padding-bottom: 0px;
         --padding-left: 0px;
         --padding-right: 0px
@@ -1523,7 +1523,7 @@ body:not(.rtl) .elementor-6 .elementor-element.elementor-element-19c6fa9 .elemen
 
     .elementor-6 .elementor-element.elementor-element-4c05daa {
         --gap: 20px 0px;
-        --padding-top: 75px;
+        --padding-top: 100px;
         --padding-bottom: 0px;
         --padding-left: 0px;
         --padding-right: 0px
@@ -1651,7 +1651,7 @@ body:not(.rtl) .elementor-6 .elementor-element.elementor-element-19c6fa9 .elemen
     }
 
     .elementor-6 .elementor-element.elementor-element-32270e5 {
-        --padding-top: 65px;
+        --padding-top: 6px;
         --padding-bottom: 15px;
         --padding-left: 15px;
         --padding-right: 15px
