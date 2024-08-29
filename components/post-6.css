@@ -33,7 +33,7 @@
 .elementor-6 .elementor-element.elementor-element-fe2a2bd>.e-con-inner>.elementor-background-slideshow::before,
 .elementor-6 .elementor-element.elementor-element-fe2a2bd>.elementor-motion-effects-container>.elementor-motion-effects-layer::before {
     --background-overlay: '';
-    background-image: url(https://websitedemos.net/portfolio-02/wp-content/uploads/sites/864/2021/05/bg-02-free-img.png);
+    background-image: url(bg-02-free-img.png);
     background-position: top right;
     background-repeat: no-repeat
 }
@@ -561,7 +561,7 @@ body:not(.rtl) .elementor-6 .elementor-element.elementor-element-19c6fa9 .elemen
 
 .elementor-6 .elementor-element.elementor-element-fd6010e:not(.elementor-motion-effects-element-type-background),
 .elementor-6 .elementor-element.elementor-element-fd6010e>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-image: url(https://websitedemos.net/portfolio-02/wp-content/uploads/sites/864/2021/05/bg-01-free-img.jpg);
+    background-image: url(bg-01-free-img.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover
